@@ -1,0 +1,89 @@
+.myheader {
+    background-image: url("../IMG/bg_head.jpg");
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 60px;
+    color: gray;
+    font-size: 30px;
+}
+
+.myheader .myh {
+    color: black;
+    letter-spacing: 5px;
+}
+
+.myheader .myheaderchild {
+    font-size: small;
+     
+}
+
+.myheader .myimg {
+    width: 8%;
+    border: 3px solid white;
+}
+
+.myhr{
+ border: none;
+    height: 1px;
+    /* Set the hr color */
+     background-color: darkgray; 
+}
+    
+
+
+.mynav {
+/*    border-bottom: 2px solid gray;*/
+    padding-bottom: 20px;
+    margin: 30px 0px;
+}
+
+.mylinks {
+    color: gray;
+}
+
+.myelement {
+    text-align: center;
+    color: gray;
+}
+
+.intarpai {
+    margin: 20px 0;
+}
+
+.mycards {
+    text-align: center;
+    border: none;
+}
+
+.text {
+    color: gray;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 40px;
+}
+
+.mycards .mytext {
+    color: red;
+}
+
+.myimg1 {
+    margin: 30px 0px;
+}
+
+.myform {
+    margin-top: 30px;
+    background-color: gray;
+    color: white;
+    padding: 10px;
+}
+
+.myfooter {
+    background-color: black;
+    color: gray;
+    text-align: right;
+    font-size: small;
+}
+
+.myicon {
+    margin-right: 5px;
+}
